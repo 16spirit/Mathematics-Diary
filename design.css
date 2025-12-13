@@ -6,7 +6,7 @@ body {
   font-size:smaller;
   font-family: sans-serif;
   color:#2C3138;
-  background-image: url("https://16verve.web.fc2.com/media/wallpaper.png");
+  background-image: url("media/wallpaper.png");
   background-repeat: repeat;        /* 画像を繰り返し表示 */
   background-size: 300px;            /* 元のサイズのまま */
 }
@@ -54,4 +54,5 @@ mark {
   
   @media screen and (max-width: 400px) {
     body{padding:20px;}
+
   }
