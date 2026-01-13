@@ -2,4 +2,4 @@
 
 何となくホームページを作ってみました．主にはゼミの記録用．
 
-URL: [16spirit.github.io](https://16spirit.github.io/Mathematics-Diary/)
+URL: [16spirit.github.io]([https://16spirit.github.io/Mathematics-Diary/](https://16spirit.github.io/The-Runner-in-the-Vineyards/))
